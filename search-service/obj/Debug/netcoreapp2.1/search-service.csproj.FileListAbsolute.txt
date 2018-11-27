@@ -1,0 +1,11 @@
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/bin/Debug/netcoreapp2.1/search-service.deps.json
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/bin/Debug/netcoreapp2.1/search-service.runtimeconfig.json
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/bin/Debug/netcoreapp2.1/search-service.runtimeconfig.dev.json
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/bin/Debug/netcoreapp2.1/search-service.dll
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/bin/Debug/netcoreapp2.1/search-service.pdb
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/obj/Debug/netcoreapp2.1/search-service.csprojAssemblyReference.cache
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/obj/Debug/netcoreapp2.1/search-service.csproj.CoreCompileInputs.cache
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/obj/Debug/netcoreapp2.1/search-service.AssemblyInfoInputs.cache
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/obj/Debug/netcoreapp2.1/search-service.AssemblyInfo.cs
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/obj/Debug/netcoreapp2.1/search-service.dll
+/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/obj/Debug/netcoreapp2.1/search-service.pdb

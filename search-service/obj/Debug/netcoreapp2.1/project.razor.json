@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/media/zrhm7232/New Volume2/Projects/ShivehProjects/CSharps/search-service/search-service.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
