@@ -26,8 +26,9 @@ namespace distance_matrix
                 wc.QueryString.Add("destinations", destinations.toString());
                 wc.QueryString.Add("$sorted", "true");
                 // $filter is optional. if use this it can be following items:
-                //  
-                wc.QueryString.Add("$filter", "");
+                //  $filter eq distance
+                //  $filter eq duration
+                // wc.QueryString.Add("$filter", "");
                 string output = "";
 
                 try {
@@ -42,8 +43,8 @@ namespace distance_matrix
                 Response r = JsonConvert.DeserializeObject<Response>(output);
                 // Console.WriteLine(output);
                 // Console.WriteLine(r.origins.TryGetValue("origin_1"));
-                MetaPoint result;
-                Dictionary<string, MetaPoint> dict = (Dictionary<string, MetaPoint>)r.origins;
+                Response.MetaPoint result;
+                Dictionary<string, Response.MetaPoint> dict = (Dictionary<string, Response.MetaPoint>)r.origins;
 
                 if(dict.TryGetValue("origin_1", out result)) {
 			        Console.WriteLine(result.name);
