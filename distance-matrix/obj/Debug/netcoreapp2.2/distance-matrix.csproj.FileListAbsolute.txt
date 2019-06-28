@@ -1,0 +1,11 @@
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/obj/Debug/netcoreapp2.2/distance-matrix.csprojAssemblyReference.cache
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/obj/Debug/netcoreapp2.2/distance-matrix.csproj.CoreCompileInputs.cache
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/obj/Debug/netcoreapp2.2/distance-matrix.AssemblyInfoInputs.cache
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/obj/Debug/netcoreapp2.2/distance-matrix.AssemblyInfo.cs
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/bin/Debug/netcoreapp2.2/distance-matrix.deps.json
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/bin/Debug/netcoreapp2.2/distance-matrix.runtimeconfig.json
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/bin/Debug/netcoreapp2.2/distance-matrix.runtimeconfig.dev.json
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/bin/Debug/netcoreapp2.2/distance-matrix.dll
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/bin/Debug/netcoreapp2.2/distance-matrix.pdb
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/obj/Debug/netcoreapp2.2/distance-matrix.dll
+/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/obj/Debug/netcoreapp2.2/distance-matrix.pdb
