@@ -732,11 +732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/distance-matrix.csproj",
+      "projectUniqueName": "/home/zrhm7232/MyFiles/Projects/Shiveh/github/csharp-sample-code/distance-matrix/distance-matrix.csproj",
       "projectName": "distance-matrix",
-      "projectPath": "/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/distance-matrix.csproj",
+      "projectPath": "/home/zrhm7232/MyFiles/Projects/Shiveh/github/csharp-sample-code/distance-matrix/distance-matrix.csproj",
       "packagesPath": "/home/zrhm7232/.nuget/packages/",
-      "outputPath": "/home/zrhm7232/MyFiles/Projects/Shiveh/csharp-sample-code/distance-matrix/obj/",
+      "outputPath": "/home/zrhm7232/MyFiles/Projects/Shiveh/github/csharp-sample-code/distance-matrix/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
