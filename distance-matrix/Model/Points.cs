@@ -15,7 +15,7 @@ public class Points
         data.Add(new Point(id, lat, lon));
     }
 
-    public string toString()
+    public override string ToString()
     {
         for (var i = 0; i < data.Count; i++)
         {

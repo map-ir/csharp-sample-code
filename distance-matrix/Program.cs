@@ -22,8 +22,8 @@ namespace distance_matrix
                 Points destinations = new Points();
                 destinations.addPoint("destination_1", 35.706826, 51.347341);
 
-                wc.QueryString.Add("origins", origins.toString());
-                wc.QueryString.Add("destinations", destinations.toString());
+                wc.QueryString.Add("origins", origins.ToString());
+                wc.QueryString.Add("destinations", destinations.ToString());
                 wc.QueryString.Add("$sorted", "true");
                 // $filter is optional. if use this it can be following items:
                 //  $filter eq distance
