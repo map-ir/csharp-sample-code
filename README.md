@@ -7,3 +7,5 @@ todo list:
 - [x] distance matrix
 - [x] reverse geocode
 - [x] static map
+- [ ] route
+- [ ] geofence
