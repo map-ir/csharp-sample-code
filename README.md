@@ -5,4 +5,5 @@ todo list:
 
 - [x] search service
 - [x] distance matrix
-- [ ] reverse geocode
+- [x] reverse geocode
+- [x] static map
